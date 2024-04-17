@@ -1,0 +1,5 @@
+export const BASE_API_URL = 'https://arha-express.com/api/v10/';
+
+export const OTP_VERIFY_API = `${BASE_API_URL}otp-verify`;
+export const OTP_LOGIN_API = `${BASE_API_URL}otp-login`;
+export const FORM_API=`${BASE_API_URL}employee/store_client`;
